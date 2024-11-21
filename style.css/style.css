@@ -76,7 +76,7 @@ header h1 {
 .product-price {
     display: flex;
     justify-content: space-around;
-    gap: 10rem;
+    gap: 1rem;
     text-align: center;
     padding-bottom: 2rem;
 }
