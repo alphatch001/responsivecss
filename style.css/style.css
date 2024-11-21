@@ -39,9 +39,9 @@ header h1 {
 }
 
 .product-img img{
-    object-fit: cover;
+    object-fit: fill;
     width: 100%;
-    height: 100%;
+    height: 290px;
 }
 
 .product-content-box{
@@ -76,7 +76,7 @@ header h1 {
 .product-price {
     display: flex;
     justify-content: space-around;
-    gap: 10rem;
+    gap: 1rem;
     text-align: center;
     padding-bottom: 2rem;
 }
